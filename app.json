@@ -1,11 +1,15 @@
 {
   "name": "forestadmin-csv",
   "description": "Getting started with Forest Admin using a CSV file",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "repository": "https://github.com/SeyZ/fowenforehgoer",
   "keywords": [
     "node",
     "express",
-    "static"
+    "forestadmin",
+    "adminpanel",
+    "internaltool"
+  ],
+  "addons": [
+    "heroku-postgresql"
   ]
 }
