@@ -14,7 +14,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/musicglue/heroku-buildpack-postgresql.git"
+      "url": "https://github.com/mojodna/heroku-buildpack-pgsql.git"
     }
   ]
 }
